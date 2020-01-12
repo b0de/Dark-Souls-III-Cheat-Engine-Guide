@@ -87,7 +87,7 @@ A Softban means, that your account will be connected only to the server with oth
 
 #### What does and does not get you banned
 Thanks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
-[Softban Data and Testing](https://www.reddit.com/r/opensouls3/comments/5gc9cb/softban_data_and_testing/)
+[Softban Data and Testing](https://www.removeddit.com/r/opensouls3/comments/5gc9cb/softban_data_and_testing/)
 
 #### Cheat Engine debugger crashing the game
 
